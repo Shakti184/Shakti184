@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakti184&show_icons=true&locale=en" alt="shakti184" /></p>
 
-[![@shakti123's Holopin board](https://holopin.io/api/user/board?user=shakti123)](https://holopin.io/@shakti184)
+[![@shakti184's Holopin board](https://holopin.io/api/user/board?user=shakti184)](https://holopin.io/@shakti184)
